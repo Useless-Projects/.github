@@ -1,7 +1,6 @@
 # Useless Projects:
 ## [GPS Frame Parser]:
 Can translate you a [NMEA] Frame.
----
   ## I love to code, so to practice:
   ### I create stupid projects like [Raccourci].
   ### So I created "Useless Projects" for my *Useless Projects*, ***Yes it makes sense***.
